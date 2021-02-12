@@ -1,3 +1,6 @@
+![Alt text](src/assets/Blazar-logo-git.png?raw=true "Screenshot")
+
+
 # Blazar Admin Template
 ( Made with Quasar )
 
