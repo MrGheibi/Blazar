@@ -1,0 +1,41 @@
+// app global css in SCSS form
+@font-face {
+  font-family: Vazir;
+  font-style: normal;
+  font-weight: bold;
+  src: url('../assets/fonts/Vazir-Bold/Vazir-Bold.eot');
+  src: url('../assets/fonts/Vazir-Bold/Vazir-Bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+  url('../assets/fonts/Vazir-Bold/Vazir-Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+  url('../assets/fonts/Vazir-Bold/Vazir-Bold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  url('../assets/fonts/Vazir-Bold/Vazir-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: Vazir;
+  font-style: normal;
+  font-weight: 500;
+  src: url('../assets/fonts/Vazir-Medium/Vazir-Medium.eot');
+  src: url('../assets/fonts/Vazir-Medium/Vazir-Medium.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+  url('../assets/fonts/Vazir-Medium/Vazir-Medium.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+  url('../assets/fonts/Vazir-Medium/Vazir-Medium.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  url('../assets/fonts/Vazir-Medium/Vazir-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: Vazir;
+  font-style: normal;
+  font-weight: 300;
+  src: url('../assets/fonts/Vazir-Light/Vazir-Light.eot');
+  src: url('../assets/fonts/Vazir-Light/Vazir-Light.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+  url('../assets/fonts/Vazir-Light/Vazir-Light.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+  url('../assets/fonts/Vazir-Light/Vazir-Light.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  url('../assets/fonts/Vazir-Light/Vazir-Light.ttf') format('truetype');
+}
+
+
+a,h1,p,b,h2,body,h3,h4,h6,h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6
+{
+  font-family: Vazir, serif !important
+}
+text
+{
+  font-family: Vazir, serif !important
+}

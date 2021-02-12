@@ -1,0 +1,58 @@
+// SideBar global css in SCSS form
+
+.item-side-bar-active {
+  margin: 10px;
+  border-radius: 15px;
+  background: rgba(73, 157, 245, 25%);
+  color: #396AFF !important;
+}
+
+.profile-img { // style for image profile user
+  margin: 20px;
+  border-radius: 200px;
+}
+
+.profile-text { // style for text (fullName) profile user
+  font-size: 17px !important;
+  margin-bottom: 20px;
+  color: #4a4a4a;
+}
+
+.item-side-bar { // style Items sidebar
+  margin: 10px;
+  color: #373737;
+}
+
+.q-item { // overwrite class quasar item  for side bar
+  border-radius: 15px;
+}
+
+aside { // overwrite style quasar component aside  for header
+  margin: 12px;
+  border-radius: 20px;
+}
+
+.q-drawer__content { // overwrite style quasar class q-drawer__content  for sidebar
+  border-radius: 20px;
+}
+
+.q-drawer { // overwrite style quasar class q-drawer  for sidebar
+  box-shadow: 0 2px 5px 0 rgba(122, 122, 122, 0.2), 0 6px 20px 0 rgba(129, 129, 129, 0.19);
+}
+
+.b-header {
+  margin: 10px 10px 10px 25px;
+  border-radius: 12px;
+}
+
+.b-shadow {
+  box-shadow: 0 2px 5px 0 rgba(122, 122, 122, 0.2), 0 6px 20px 0 rgba(129, 129, 129, 0.19);
+}
+
+
+@media (max-width: 998px) {
+  .b-header {
+    margin: 10px 10px 10px 10px !important;
+    border-radius: 12px;
+  }
+}

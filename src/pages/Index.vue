@@ -2,7 +2,8 @@
   <q-page class="flex flex-center">
     <img
       alt="Quasar logo"
-      src="~assets/quasar-logo-full.svg"
+      width="270"
+      src="~assets/Blazar-Logo.svg"
     >
   </q-page>
 </template>
