@@ -1,6 +1,7 @@
-# Blazar (blazar)
+# Blazar Admin Template
+( Made with Quasar )
 
-Blazar Admin Panel
+Free Blazar Admin Template based on Vue.js and used Quasar Framework.
 
 ## Install the dependencies
 ```bash
@@ -12,15 +13,16 @@ yarn
 quasar dev
 ```
 
-### Lint the files
-```bash
-yarn run lint
-```
 
 ### Build the app for production
 ```bash
 quasar build
 ```
+
+## Screens UI
+**Dashboard**
+
+![Alt text](src/assets/Demo/Dashboard.png?raw=true "Screenshot")
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
