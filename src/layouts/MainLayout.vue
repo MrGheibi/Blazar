@@ -47,15 +47,19 @@
     >
       <q-list>
         <div class="flex flex-center">
+<!--     user profile image or company logo   -->
           <img
             class="shadow-3 profile-img"
             alt="Blazar logo"
-            src="~assets/images/profile.jpg"
+            src="~assets/Blazar.png"
             width="160"
           >
+
+          <!--
           <span class="profile-text">
-          ایلان ماسک
+              User Name
           </span>
+          -->
         </div>
 
         <q-separator inset="true" class="q-my-sm"/>
